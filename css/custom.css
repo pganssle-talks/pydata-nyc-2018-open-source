@@ -259,11 +259,20 @@ body {
 /*********************************************
  * IMAGES
  *********************************************/
+
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
   border: 0;
   box-shadow: none;
+}
+
+img#splash {
+    border: 0;
+    background: none;
+    max-width: 90%;
+    max-height: 850px;
+
 }
 
 /* border: 4px solid #000;
