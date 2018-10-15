@@ -1,4 +1,4 @@
-# git workflow
+# github workflow
 
 <style>
 img#git-workflow {
@@ -6,9 +6,9 @@ img#git-workflow {
 }
 </style>
 
-{% for image in site.data.git_workflow.images %}
+{% for image in site.data.gh_workflow.images %}
 <section data-transition="slide none">
-    <img src="images/git-workflow/{{ image.name }}" id="git-workflow"
+    <img src="images/gh-workflow/{{ image.name }}" id="git-workflow"
          alt="{{ image.alt }}" />
 </section>
 {% endfor %}

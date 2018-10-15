@@ -1,0 +1,27 @@
+images:
+  - name: ghw00-initial.svg
+    alt: "Initial state - one repository on github"
+  - name: ghw01-fork.svg
+    alt: "Shows a second repository, the result of a GH fork"
+  - name: ghw02-clone.svg
+    alt: "The forked repository is cloned locally"
+  - name: ghw03-upstream.svg
+    alt: "The local repository is connected to the upstream with git remote add"
+  - name: ghw04-names.svg
+    alt: "Shows how each of the repositories is traditionally named: local, origin, upstream"
+  - name: ghw05-locations.svg
+    alt: "Demonstrates that origin and upstream are both on github's servers"
+  - name: ghw06-branch.svg
+    alt: "Shows a branch created on the local repo"
+  - name: ghw07-branch-names.svg
+    alt: "Shows the names of the branch: master, origin/master, upstream/master and fix-race-condition"
+  - name: ghw08-push-names.svg
+    alt: "fix-race-condition is pushed to origin, creating an origin/fix-race-condition branch"
+  - name: ghw09-pr.svg
+    alt: "A pull request is made from origin to upstream"
+  - name: ghw10-pr-merged.svg
+    alt: "The PR is merged, adding commits to upstream's master"
+  - name: ghw11-pull.svg
+    alt: "The local copy is updated by pulling from upstream"
+  - name: ghw12-delete.svg
+    alt: "The feature branch is deleted in local"
