@@ -2,7 +2,7 @@
 # Configuration file for the reveal.js theme
 
 reveal_path: reveal.js/
-reveal_theme: night.css
+reveal_theme: white.css
 reveal_transition: linear
 reveal_theme_path: reveal.js/css/theme/
 
