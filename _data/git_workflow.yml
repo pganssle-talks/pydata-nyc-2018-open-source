@@ -1,0 +1,11 @@
+images:
+  - name: gw00-start.svg
+    alt: "Representation of a main branch with three commits"
+  - name: gw01-clone.svg
+    alt: "clone the main repository"
+  - name: gw02-commits.svg
+    alt: "Add some commits in a new branch to the cloned repository"
+  - name: gw03-push.svg
+    alt: "Push the branch to the main repository"
+  - name: gw04-merge.svg
+    alt: "Merge the branch into the main repository's master branch"
