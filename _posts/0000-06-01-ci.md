@@ -5,12 +5,10 @@
      id="ghscreenshot"
      />
 
---
 
-<img src="images/ci/travis-grid-running.png"
-     alt="The various CI jobs running"
-     id="ghscreenshot"
-     />
+<img src="images/ci/ci-statuses-error.png"
+     alt="CI status hooks on github - one failure"
+     id="ghscreenshot"> <fragment/>
 
 --
 
@@ -34,4 +32,8 @@
      id="ghscreenshot"
      />
 
+<img src="images/ci/ci-statuses-passed.png"
+     alt="CI status hooks on github - one failure"
+     id="ghscreenshot"
+     /> <fragment/>
 
