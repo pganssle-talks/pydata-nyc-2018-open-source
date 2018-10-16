@@ -2,6 +2,7 @@
 
 <img src="images/good-issues/issue-structure.png"
      alt="Breakdown of issue #282 from github.com/ambv/black"
+     style="height: 700px"
      id="ghscreenshot"
      />
 
@@ -12,7 +13,6 @@
 --
 
 ## Search for existing issues and pull requests
-<br/>
 <img src="images/good-issues/pg-du-dupe-issue.png"
      alt="pganssle raises an issue on dateutil"
      id="ghscreenshot"
