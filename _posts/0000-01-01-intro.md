@@ -19,4 +19,4 @@ Paul Ganssle
     <img src="external-images/logos/cc-by.svg" height="45px">
 </a>
 <br/>
-Copyright 2018 Bloomberg, L.P
+© 2018 Bloomberg, L.P
