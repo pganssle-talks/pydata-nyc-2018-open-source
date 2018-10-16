@@ -31,6 +31,3 @@
 <img src="images/good-issues/as-du-tzname-issue-pg-response.png"
      alt="The full issue, showing that pganssle responded on that issue!"
      id="ghscreenshot" />
-
---
-
