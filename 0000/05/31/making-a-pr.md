@@ -1,7 +1,7 @@
-# Using Github
+# Using GitHub
 
 <img src="images/make-pr/fork-repo.png"
-     alt="Image showing the 'Fork' button in the top-right corner of the Github UI"
+     alt="Image showing the 'Fork' button in the top-right corner of the GitHub UI"
      id="ghscreenshot"
      />
 
@@ -12,10 +12,10 @@
 
 --
 
-# Using Github
+# Using GitHub
 
 <img src="images/make-pr/clone-repo.png"
-     alt="Image showing the 'Fork' button in the top-right corner of the Github UI"
+     alt="Image showing the 'Fork' button in the top-right corner of the GitHub UI"
      id="ghscreenshot"
      />
 
@@ -33,7 +33,7 @@ Resolving deltas: 100% (190/190), done.
 
 --
 
-# Using Github
+# Using GitHub
 
 ```bash
 $ git push --set-upstream origin add_pr_slide
