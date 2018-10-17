@@ -1,13 +1,13 @@
 # Continuous Integration Tools
 
 <img src="images/ci/ci-statuses.png"
-     alt="CI status hooks on Github - pending"
+     alt="CI status hooks on GitHub - pending"
      id="ghscreenshot"
      />
 
 
 <img src="images/ci/ci-statuses-error.png"
-     alt="CI status hooks on Github - one failure"
+     alt="CI status hooks on GitHub - one failure"
      id="ghscreenshot"> <fragment/>
 
 --
@@ -33,7 +33,7 @@
      />
 
 <img src="images/ci/ci-statuses-passed.png"
-     alt="CI status hooks on Github - one failure"
+     alt="CI status hooks on GitHub - one failure"
      id="ghscreenshot"
      /> <fragment/>
 

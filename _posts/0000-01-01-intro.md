@@ -12,7 +12,7 @@ Paul Ganssle
 
 <br/>
 <br/>
-<em><a href="https://github.com/pganssle-talks/pydata-nyc-2018-open-source/">This talk on Github: pganssle-talks/pygotham-2018-clean-apis</a></em>
+<em><a href="https://github.com/pganssle-talks/pydata-nyc-2018-open-source/">This talk on GitHub: pganssle-talks/pygotham-2018-clean-apis</a></em>
 <br/>
 <br/>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
