@@ -69,10 +69,11 @@ Have a clear statement in the PR saying what problem you're attempting to solve 
 ## Minimal support burden
 
 <img id="splash"
-     src="external-images/wolf-puppy.jpg"
-     alt="An image of a puppy in the woods"
+     src="external-images/wolf-puppy-01.jpg"
+     alt="An image of a red wolf puppy on a table"
      style="max-height: 750px"
      />
 
+<!-- ["Red wolf puppy"](https://www.flickr.com/photos/trackthepack/7747990586) by [Red Wolf](https://www.flickr.com/people/trackthepack/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
 <!-- ["Red wolf puppy"](https://www.flickr.com/photos/trackthepack/7747771604) by [Red Wolf](https://www.flickr.com/people/trackthepack/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
 
