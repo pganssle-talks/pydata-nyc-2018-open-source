@@ -20,3 +20,15 @@ Paul Ganssle
 </a>
 <br/>
 © 2018 Bloomberg Finance L.P.
+
+Notes:
+
+-Introductory statement-
+
+Today I'm going to talk to you about contributing to open source.
+
+I've been a maintainer of several open source python projects for the past few years, most notably the library dateutil, and a contributor to many others, so this is a world I've been immersed in for a while now.
+
+The genesis of this talk is that I've often heard people complaining about how difficult it is to get your issues merged on one project or another and I have not *generally* had that problem, so the question is - what am I doing differently?
+
+Unfortunately, I suspect some significant portion of the difference boils down to the fact that I have a higher than average tolerance for putting up with these types of annoyance, but I think that to some extent there are patterns to this that can be learned.
