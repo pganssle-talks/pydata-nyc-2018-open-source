@@ -1,4 +1,4 @@
-# github workflow
+# Github workflow
 
 <style>
 img#git-workflow {
