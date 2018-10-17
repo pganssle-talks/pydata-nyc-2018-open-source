@@ -5,6 +5,7 @@
 <img id="splash"
      src="external-images/stairway-to-nowhere.jpg"
      alt="A small stairway leading to a wall"
+     style="height: 750px"
      />
 
 <!-- ["You had one job...!(stairway to nowhere)"](https://www.flickr.com/photos/alexchaffee/22466115412) by [Alex Chaffee](https://www.flickr.com/people/alexchaffee/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
@@ -38,7 +39,7 @@ Bug fixes are probably what most people think of when they think of contributing
 
 --
 
-## Issues
+## Bug reports
 
 <img id="splash"
      src="external-images/bug-report-woskay.jpg"
@@ -49,51 +50,6 @@ Bug fixes are probably what most people think of when they think of contributing
 
 Note:
 An often overlooked type of contribution issues, but user-submitted issues are one of the only ways that maintainers get feedback about their projects.
-
---
-
-## Issues
-
-<img id="splash"
-     src="external-images/digital-signage.jpg"
-     alt="A person makes a disapproving face in front of a screen displaying an error dialog"
-     />
-
-<!-- ["Digital signage done wrong"](https://www.flickr.com/photos/hendry/1028035206) by [Kai Hendry](https://www.flickr.com/people/hendry/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
-
-Note:
-
-It could be an issue that only your users are seeing.
-
---
-
-## Issues
-
-<img id="splash"
-     src="external-images/monkey-backwards-bench.jpg"
-     alt="A monkey sits backwards on a bench"
-     />
-
-<!-- ["backwards"](https://www.flickr.com/photos/tkb/17063787) by [TKnoxB](https://www.flickr.com/people/tkb/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
-
-Note:
-
-Or you could be a type of user that the original designer didn't think of before.
-
---
-
-## Issues
-
-<img id="splash"
-     src="external-images/bathroom-window.jpg"
-     alt="Two urinals in front of a window"
-     />
-
-<!-- ["What's wrong with this picture?"](https://www.flickr.com/photos/tensafefrogs/3960980431) by [Geoff Stearns](https://www.flickr.com/people/tensafefrogs/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
-
-Note:
-
-Or even a fundamental design flaw that wasn't obvious until it was deployed in the real world.
 
 --
 
