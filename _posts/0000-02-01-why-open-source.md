@@ -1,6 +1,7 @@
+<!-- .slide: data-transition="none-out" -->
 # Why Open Source?
 
-## Contributing
+## Community
 
 <img id="splash"
      src="external-images/team-effort.jpg"
@@ -11,9 +12,10 @@
 
 --
 
+<!-- .slide: data-transition="none-in" -->
 # Why Open Source?
 
-## Satisfaction
+## Community
 
 <img id="splash"
      src="external-images/nasa-45075-unsplash.jpg"
@@ -21,11 +23,12 @@
      style="height:750px"
      />
 
+
 --
 
 # Why Open Source?
 
-## Fixing a problem
+## Fixing a Problem
 
 <img id="splash"
      src="external-images/shoveling-snow.jpg"
