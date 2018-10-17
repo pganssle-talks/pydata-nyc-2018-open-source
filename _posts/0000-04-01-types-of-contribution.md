@@ -27,11 +27,11 @@ These differences of perspective are a major source of friction between contribu
 ## Bug fixes
 
 <img id="splash"
-     src="external-images/computer-bug.jpg"
-     alt="A mechanical ladybug on a circuit board"
+     src="external-images/nowshad-arefin-484188-unsplash-cropped.jpg"
+     alt="A foot about to step on a bug"
      />
 
-<!-- ["Repair Bug"](https://www.flickr.com/photos/azrainman/993139790/) by [Mark Rain](https://www.flickr.com/people/azrainman/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
+<!-- Photo by [Nowshad Arefin](https://unsplash.com/@_nowshad_himel_) on [Unsplash](https://unsplash.com/photos/tTHUqB0FNWA) -->
 
 Note:
 
