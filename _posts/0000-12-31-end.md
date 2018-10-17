@@ -2,7 +2,7 @@
 <br/>
 - **Panel Discussion: My First Open Source Contribution** - 11:30 AM, Belasco #6203
 <br/>
-- **Packaging Sprint at Bloomberg (NYC/London)** - October 27/28
+- **PyPA Packaging Sprint at Bloomberg (NYC/London)** - October 27/28
     - Packaging Sprints: https://wiki.python.org/psf/PackagingSprints
 
 <br/>
@@ -24,4 +24,4 @@
     <img src="external-images/logos/cc-by.svg" height="45px">
 </a>
 <br/>
-© 2018 Bloomberg, L.P
+© 2018 Bloomberg Finance L.P
