@@ -314,11 +314,11 @@ body {
 }
 
 img#splash {
-    border: 0;
+    border: 2px solid;
+    border-color: #444;
     background: none;
     max-width: 90%;
     max-height: 850px;
-
 }
 
 img#ghscreenshot {
