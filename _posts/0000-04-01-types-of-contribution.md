@@ -39,20 +39,6 @@ Bug fixes are probably what most people think of when they think of contributing
 
 --
 
-## Bug reports
-
-<img id="splash"
-     src="external-images/bug-report-woskay.jpg"
-     alt="Person pressing the 'Send Error Report' button"
-     />
-
-<!-- ["bug report"](https://www.flickr.com/photos/oskay/253878224/) by [Windell Oskay](https://www.flickr.com/people/oskay/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
-
-Note:
-An often overlooked type of contribution issues, but user-submitted issues are one of the only ways that maintainers get feedback about their projects.
-
---
-
 ## Documentation fixes
 
 <img id="splash"
@@ -65,3 +51,59 @@ An often overlooked type of contribution issues, but user-submitted issues are o
 Note:
 
 Documentation fixes are among the easiest things to get merged, for a number of reasons.
+
+--
+
+## Bug reports
+
+<img id="splash"
+     src="external-images/bug-report-woskay.jpg"
+     alt="Person pressing the 'Send Error Report' button"
+     />
+
+<!-- ["bug report"](https://www.flickr.com/photos/oskay/253878224/) by [Windell Oskay](https://www.flickr.com/people/oskay/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
+
+Note:
+An often overlooked type of contribution issues, but user-submitted issues are one of the only ways that maintainers get feedback about their projects.
+
+> --
+
+> ## Interlude
+
+> <img id="splash"
+>      src="external-images/digital-signage.jpg"
+>      alt="A person makes a disapproving face in front of a screen displaying an error dialog"
+>      />
+
+> <!-- ["Digital signage done wrong"](https://www.flickr.com/photos/hendry/1028035206) by [Kai Hendry](https://www.flickr.com/people/hendry/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
+
+> --
+
+> ## Interlude
+
+> <img id="splash"
+>      src="external-images/monkey-backwards-bench.jpg"
+>      alt="A monkey sits backwards on a bench"
+>      />
+
+> <!-- ["backwards"](https://www.flickr.com/photos/tkb/17063787) by [TKnoxB](https://www.flickr.com/people/tkb/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
+
+> Note:
+
+> People who use your project differently
+
+> --
+
+> ## Interlude
+
+> <img id="splash"
+>      src="external-images/bathroom-window.jpg"
+>      alt="Two urinals in front of a window"
+>      />
+
+> <!-- ["What's wrong with this picture?"](https://www.flickr.com/photos/tensafefrogs/3960980431) by [Geoff Stearns](https://www.flickr.com/people/tensafefrogs/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
+
+> Note:
+
+> Fundamental design flaw not noticed
+
