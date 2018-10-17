@@ -13,6 +13,12 @@ Attribution:
 - eating-too-much.jpg: ["Jack begins eating his way through Solvang"](https://www.flickr.com/photos/sonyanews/17784473478) by [sonyanews](https://www.flickr.com/people/sonyanews/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 - contraption.jpg: ["2015-03-05 contraption"](https://www.flickr.com/photos/29233640@N07/16707597726) by [Robert Couse-Baker](https://www.flickr.com/people/29233640@N07/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 - sprints.jpg: ["sprints"](https://www.flickr.com/photos/pepej/21647810469) by [Josef Jerabek](https://www.flickr.com/people/pepej/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+- team-effort.jpg: ["Team effort"](https://www.flickr.com/photos/cityyear/4636035196) by [City Year](https://www.flickr.com/people/cityyear/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+- nasa-45075-unsplash.jpg: Photo by NASA on [Unsplash](https://unsplash.com/photos/5JuLcub3dYg); public domain.
+- clearing-log.jpg: ["Clearing obstacles"](https://www.flickr.com/photos/usfwssoutheast/6106014427) by [U.S. Fish and Wildlife Service Southeast Region](https://www.flickr.com/people/usfwssoutheast/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+- shoveling-walk.jpg: ["Shoveling"](https://www.flickr.com/photos/danielmorrison/3146110418/) by [Daniel Morrison](https://www.flickr.com/photos/danielmorrison/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+
+
 
 
 
