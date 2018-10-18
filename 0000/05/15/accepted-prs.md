@@ -1,3 +1,12 @@
+# Elements of an accepted PR
+
+<img src="images/accepted-pr.png"
+    alt="An accepted pull request"
+    id="ghscreenshot"
+    />
+
+--
+
 ## Maintainer psychology
 
 <img id="splash"
@@ -20,17 +29,23 @@
 <img src="images/needs-tests/needs-tests-line-00.png"
      alt="Screen capture of pganssle asking for tests"
      id="ghscreenshot"
-     />
+     /> <fragment/>
 
 <img src="images/needs-tests/needs-tests-line-01.png"
      alt="Screen capture of pganssle asking for tests"
      id="ghscreenshot"
-     />
+     /> <fragment/>
 
 <img src="images/needs-tests/needs-tests-jr-00.png"
      alt="Screen capture of jreback asking for tests"
      id="ghscreenshot"
-     />
+     /> <fragment/>
+
+<img src="images/needs-tests/needs-tests-tc-00.png"
+     alt="Screen capture of pganssle asking for tests"
+     id="ghscreenshot"
+     /> <fragment/>
+
 
 --
 

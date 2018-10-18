@@ -1,5 +1,4 @@
 # Using GitHub
-
 <img src="images/make-pr/fork-repo.png"
      alt="Image showing the 'Fork' button in the top-right corner of the GitHub UI"
      id="ghscreenshot"
@@ -12,7 +11,7 @@
 
 --
 
-# Using GitHub
+## Clone the repo
 
 <img src="images/make-pr/clone-repo.png"
      alt="Image showing the 'Fork' button in the top-right corner of the GitHub UI"
@@ -33,7 +32,7 @@ Resolving deltas: 100% (190/190), done.
 
 --
 
-# Using GitHub
+## Make a branch and push it to origin
 
 ```bash
 $ git push --set-upstream origin add_pr_slide
@@ -53,19 +52,26 @@ To github.com:pganssle/pydata-nyc-2018-open-source.git
 Branch 'add_pr_slide' set up to track remote branch 'add_pr_slide' from 'origin'.
 ```
 
-<!-- Would prefer a better way to do this... -->
+--
 
+<!-- .slide: data-transition="slide-in none-out" -->
+
+## Create the pull request
+
+<!-- Would prefer a better way to do this... -->
 <style>
 img.make_pr {
     position: absolute;
     width: 993px !important;
-    height: 263px !important;
+    height: 267px !important;
     top: 0 !important;
     left: 0 !important;
+    max-width: 993px !important;
+    max-height: 267px !important;
 }
 </style>
 
-<div style="position:relative; width:993px; height: 263px; margin:0 auto;">
+<div style="position:relative; width:1000px; height: 300px; margin:0 auto;">
     <img src="images/make-pr/make-pr.png"
          alt="Image showing the 'Compare & pull request'  dialog after a new branch is pushed"
          id="ghscreenshot"
@@ -82,15 +88,27 @@ img.make_pr {
 
 </div>
 
+<div style="position: relative; width: 99%; height: 500px">
+    <img src="images/make-pr/create-pr-dialog.png"
+         alt="Image showing what it looks like to create a pull request"
+         id="ghscreenshot"
+         />
+</div> <fragment/>
+
 --
 
-<img src="images/make-pr/create-pr-dialog.png"
-     alt="Image showing what it looks like to create a pull request"
+<!-- .slide: data-transition="none-in none-out" -->
+## Create the pull request
+
+<img src="images/make-pr/make-pr-box.png"
+     alt="Showing how to make a PR when the dialog isn't there"
      id="ghscreenshot"
      />
 
+<div style="position: relative; width: 99%; height: 500px">
 <img src="images/make-pr/pr-made.png"
      alt="Image showing a completed pull request"
      id="ghscreenshot"
-     /> <fragment/>
+     />
+</div>
 

@@ -1,4 +1,17 @@
-<!-- .slide: data-transition="none-out" -->
+# Why Open Source?
+
+## Fixing a Problem
+
+<img id="splash"
+     src="external-images/shoveling-snow.jpg"
+     alt="A person with a shovel stands a the end of a shoveled walkway"
+     />
+
+<!-- ["Shoveling"](https://www.flickr.com/photos/danielmorrison/3146110418/) by [Daniel Morrison](https://www.flickr.com/photos/danielmorrison/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
+
+--
+
+<!-- .slide: data-transition="slide-in none-out" -->
 # Why Open Source?
 
 ## Community
@@ -22,17 +35,3 @@
      alt="Astronaut working on something in space"
      style="height:750px"
      />
-
-
---
-
-# Why Open Source?
-
-## Fixing a Problem
-
-<img id="splash"
-     src="external-images/shoveling-snow.jpg"
-     alt="A person with a shovel stands a the end of a shoveled walkway"
-     />
-
-<!-- ["Shoveling"](https://www.flickr.com/photos/danielmorrison/3146110418/) by [Daniel Morrison](https://www.flickr.com/photos/danielmorrison/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
