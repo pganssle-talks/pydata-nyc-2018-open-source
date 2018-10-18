@@ -9,6 +9,10 @@
 
 <!-- ["Shoveling"](https://www.flickr.com/photos/danielmorrison/3146110418/) by [Daniel Morrison](https://www.flickr.com/photos/danielmorrison/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) -->
 
+Note:
+
+-Joke about stock photos-
+
 --
 
 <!-- .slide: data-transition="slide-in none-out" -->
