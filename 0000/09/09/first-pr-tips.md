@@ -1,6 +1,6 @@
 # Choosing a project for your first PR
 <br/>
-- Pick a project that interest you
+- Pick a project that interests you
 
 - Check for indications of activity <!-- .element: class="fragment" data-fragment-index="0"-->
 
