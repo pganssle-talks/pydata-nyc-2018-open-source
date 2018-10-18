@@ -9,6 +9,12 @@
      id="ghscreenshot"
      /> <fragment/>
 
+Note:
+
+So now that we understand the abstraction, here's what it actually looks like to make a pull request on GitHub.
+
+Not all projects use GitHub, but a lot of them do and the general concepts are similar between GitHub, BitBucket and GitLab at least.
+
 --
 
 ## Clone the repo
