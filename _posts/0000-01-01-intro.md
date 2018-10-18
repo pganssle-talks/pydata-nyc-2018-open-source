@@ -29,6 +29,4 @@ Today I'm going to talk to you about contributing to open source.
 
 I've been a maintainer of several open source python projects for the past few years, most notably the library dateutil, and a contributor to many others, so this is a world I've been immersed in for a while now.
 
-The genesis of this talk is that I've often heard people complaining about how difficult it is to get your issues merged on one project or another and I have not *generally* had that problem, so the question is - what am I doing differently?
-
-Unfortunately, I suspect some significant portion of the difference boils down to the fact that I have a higher than average tolerance for putting up with these types of annoyance, but I think that to some extent there are patterns to this that can be learned.
+I've often heard people complaining that it's difficult to contribute to open source because they can never get anything merged, or no one ever responds to them; I'm not going to pretend like that doesn't happen. Part of the reason why I *don't* think it's too difficult to contribute to open source is probably that I have a different definition of "too difficult", but in my experience, with a little understanding of community norms, a bit of empathy and a healthy helping of communication, it can be made a bit *easier*.
