@@ -11,7 +11,7 @@
 
 --
 
-# Using GitHub
+## Clone the repo
 
 <img src="images/make-pr/clone-repo.png"
      alt="Image showing the 'Fork' button in the top-right corner of the GitHub UI"
@@ -32,7 +32,7 @@ Resolving deltas: 100% (190/190), done.
 
 --
 
-# Using GitHub
+## Make a branch and push it to origin
 
 ```bash
 $ git push --set-upstream origin add_pr_slide
@@ -55,6 +55,8 @@ Branch 'add_pr_slide' set up to track remote branch 'add_pr_slide' from 'origin'
 --
 
 <!-- .slide: data-transition="slide-in none-out" -->
+
+## Create the pull request
 
 <!-- Would prefer a better way to do this... -->
 <style>
@@ -96,6 +98,7 @@ img.make_pr {
 --
 
 <!-- .slide: data-transition="none-in none-out" -->
+## Create the pull request
 
 <img src="images/make-pr/make-pr-box.png"
      alt="Showing how to make a PR when the dialog isn't there"
